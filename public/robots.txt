@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /search/
+Disallow: /*?wordfence_lh
+Disallow: /*?utm_content
+Disallow: /*?feature
+Disallow: /*?aWQ9NDI2JnRpZXJJZD0y
+Disallow: /*?p
+Disallow: /page_view_event/
+Disallow: /page_view_timing/
+Disallow: /aggregate/
+Disallow: /session_trace/
+Disallow: /page_action/
+Disallow: /spa/
+Disallow: /metrics/
+Disallow: /jserrors/
+Disallow: /ajax/
+
+Sitemap: https://globalhack.org/sitemap.xml
